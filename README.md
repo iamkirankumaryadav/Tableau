@@ -6,12 +6,12 @@
 
 `Column` | `Field`
 
-`Dimensions`  
+### `Dimensions`  
 - `Qualitative` values like `Names`, `Dates`, `Category` or `Geographical` Data.
 -  `Dimensions` are used to `categorize`, `segment`, and `reveal` the details in your data.
 -  `Dimensions` affect the `level` of detail in the view.
 
-`Measures`  
+### `Measures`  
 - `Quantitative` values. 
 - `Measures` can be `aggregated`
 - `Tableau` applies an `aggregation` to the measure by default.
