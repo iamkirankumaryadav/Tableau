@@ -42,8 +42,10 @@
 `Live` 
 - Connected to real timw or live current data.
 - Connected to server or big data.
+- `Icon` : Single cylinder.
 
 `Extract` 
 - Takes a snapshot ( subset or entire dataset ) of data.
 - `Static` data which do not requires any refresh or real time connection with server.
+- `Icon` : Dual Cylinder.
 
