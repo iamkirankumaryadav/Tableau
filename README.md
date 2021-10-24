@@ -1,6 +1,6 @@
 # Tableau
 
-### Terms
+### `Terms`
 
 `Row` | `Observation` 
 
