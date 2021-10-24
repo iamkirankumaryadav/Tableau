@@ -12,7 +12,7 @@
 -  `Dimensions` affect the `level` of detail in the view.
 
 ### `Measures`  
-- `Quantitative` values like `quantity`, `currency`, `profit` or `revenue` ( `numbers` )
+- `Quantitative` values like `Quantity`, `Currency`, `Profit` or `Revenue`
 - `Measures` can be `aggregated`
 - `Tableau` applies an `aggregation` to the measure by default.
 
