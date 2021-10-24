@@ -20,5 +20,5 @@
 
 `Continuous Dimension` or `Discrete Measure` are less common.
 
-### Data types 
+### `Data types`
 ![Data Type](Image/DataType.png)
