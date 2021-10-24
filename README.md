@@ -28,3 +28,11 @@
 
 ### `Data types`
 ![Data Type](Image/DataType.png)
+
+### `Features`
+- Speed.
+- User friendly.
+- Beautiful and interactive dashboard.
+- Direct connection.
+- Easy publishing and sharing.
+- Available for both `Windows` and `MacOS`
