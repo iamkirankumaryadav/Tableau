@@ -42,7 +42,7 @@
 ### `Live` vs `Extract`
 
 `Live` 
-- Connected to real timw or live current data.
+- Connected to real time or live current data.
 - Connected to server or big data.
 - `Icon` : Single cylinder.
 
