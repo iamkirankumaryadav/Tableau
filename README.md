@@ -11,12 +11,14 @@
 -  `Dimension` values never change.
 -  `Dimensions` are used to `categorize`, `segment`, and `reveal` the details in your data.
 -  `Dimensions` affect the `level` of detail in the view. 
+-  `Dimensions` are `independent` variables.
 
 ### `Measures`  
 - `Quantitative` values like `Quantity`, `Currency`, `Profit` or `Revenue`
 - `Measure` values changes on the basis of dimension selected or any filters applied.
 - `Measures` can be `aggregated`
 - `Tableau` applies an `aggregation` to the measure by default.
+-  `Measures` are `dependent` variables.
 
 ### `Green (Continuous) vs Blue (Discrete)`
 - `Discrete Dimension` or `Continuous Measure` are `most` common.
