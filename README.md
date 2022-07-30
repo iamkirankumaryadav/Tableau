@@ -53,3 +53,9 @@
 - `Static` data which do not requires any refresh or real time connection with server.
 - `Icon` : Dual Cylinder.
 
+### `Evaluate`
+
+- Users verify that `Tableau` has correctly assigned data types, and they can make changes on the `Data Source` page if the data type is wrong.
+- They can also rename misspelled fields, split the field value in separate field.
+- Any changes made in Tableau are not written to native data source (Original data).
+- Changes are instead stored as `metadata` in a Tableau file called a Tableau Data Source `.tds`
