@@ -60,3 +60,4 @@
 - Any changes made in Tableau are not written to native data source (Original data).
 - Changes are instead stored as `metadata` in a Tableau file called a Tableau Data Source `.tds`
 - `.twbx`: Tableau Packaged Workbook (Stores all the tableau sheets, dashboards, stories, copy of data used, images if used)
+- If the data is used from server then create an `extract` before saving the data in `.twbx`
