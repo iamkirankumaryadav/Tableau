@@ -1,4 +1,4 @@
-# Tableau
+# `Tableau`
 
 ### `Terms`
 
@@ -6,23 +6,23 @@
 
 `Column` | `Field` | `Attributes`
 
-### `Start Page`
+## `Start Page`
 ![Start Page](Image/StartPage.png)
 
-### `Data Source Page`
+## `Data Source Page`
 ![Data Source Page](Image/DataSourcePage.png)
 
-### `Workspace`
+## `Workspace`
 ![Workspace](Image/TableauWorkspace.png)
 
-### `Dimensions`  
+## `Dimensions`  
 - `Qualitative` values like `Names`, `Dates`, `Category` or `Geographical` Data.
 -  `Dimension` values never change.
 -  `Dimensions` are used to `categorize`, `segment`, and `reveal` the details in your data.
 -  `Dimensions` affect the `level` of detail in the view. 
 -  `Dimensions` are `independent` variables.
 
-### `Measures`  
+## `Measures`  
 - `Quantitative` values like `Quantity`, `Currency`, `Profit` or `Revenue`
 - `Measure` values changes on the basis of dimension selected or any filters applied.
 - `Measures` can be `aggregated`
@@ -39,7 +39,7 @@
 - `Discrete` values are treated as `finite` 
 - `Discrete` fields add `headers` to the view.
 
-### `Data types`
+## `Data types`
 ![Data Type](Image/DataType.png)
 
 ### `Features`
