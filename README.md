@@ -2,9 +2,9 @@
 
 ### `Terms`
 
-`Row` | `Observation` 
+`Row` | `Observation` | `Records`
 
-`Column` | `Field`
+`Column` | `Field` | `Attributes`
 
 ### `Start Page`
 ![Start Page](Image/StartPage.png)
