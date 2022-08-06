@@ -71,7 +71,7 @@
 - `.twbx`: Tableau Packaged Workbook (Stores all the tableau sheets, dashboards, stories, copy of data used, images if used)
 - If the data is used from server then create an `extract` before saving the data in `.twbx`
 
-## File Types
+## `File Types`
 ![1](Image/TableauFileTypes1.png)
 ![2](Image/TableauFileType2.png)
 ![3](Image/TableauFileType3.png)
