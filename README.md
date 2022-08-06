@@ -6,6 +6,10 @@
 
 `Column` | `Field`
 
+### `Start Page`
+![Start Page](Image/StartPage.png)
+
+
 ### `Dimensions`  
 - `Qualitative` values like `Names`, `Dates`, `Category` or `Geographical` Data.
 -  `Dimension` values never change.
