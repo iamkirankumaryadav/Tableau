@@ -70,3 +70,8 @@
 - Changes are instead stored as `metadata` in a Tableau file called a Tableau Data Source `.tds`
 - `.twbx`: Tableau Packaged Workbook (Stores all the tableau sheets, dashboards, stories, copy of data used, images if used)
 - If the data is used from server then create an `extract` before saving the data in `.twbx`
+
+### File Types
+![1](Image/TableauFileTypes1.png)
+![2](Image/TableauFileTypes2.png)
+![3](Image/TableauFileTypes3.png)
