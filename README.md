@@ -72,6 +72,7 @@
 - If the data is used from server then create an `extract` before saving the data in `.twbx`
 
 ### File Types
+
 ![1](Image/TableauFileTypes1.png)
 ![2](Image/TableauFileTypes2.png)
 ![3](Image/TableauFileTypes3.png)
