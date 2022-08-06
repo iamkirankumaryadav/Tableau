@@ -74,5 +74,5 @@
 ### File Types
 
 ![1](Image/TableauFileTypes1.png)
-![2](Image/TableauFileTypes2.png)
-![3](Image/TableauFileTypes3.png)
+![2](Image/TableauFileType2.png)
+![3](Image/TableauFileType3.png)
