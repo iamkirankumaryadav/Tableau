@@ -10,7 +10,7 @@
 ![Start Page](Image/StartPage.png)
 
 ### `Data Source Page`
-![Data Source Page](Image/DataSource.png)
+![Data Source Page](Image/DataSourcePage.png)
 
 ### `Workspace`
 ![Workspace](Image/TableauWorkspace.png)
