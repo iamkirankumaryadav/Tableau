@@ -7,27 +7,22 @@
 `Column` | `Field` | `Attributes`
 
 ## `Start Page`
-
 ![Start Page](Image/StartPage.png)
 
 ##`Data Source Page`
-
 ![Data Source Page](Image/DataSourcePage.png)
 
 ## `Workspace`
-
 ![Workspace](Image/TableauWorkspace.png)
 
 ## `Dimensions`  
-
 - `Qualitative` values like `Names`, `Dates`, `Category` or `Geographical` Data.
--  `Dimension` values never change.
--  `Dimensions` are used to `categorize`, `segment`, and `reveal` the details in your data.
--  `Dimensions` affect the `level` of detail in the view. 
--  `Dimensions` are `independent` variables.
+- `Dimension` values never change.
+- `Dimensions` are used to `categorize`, `segment`, and `reveal` the details in your data.
+- `Dimensions` affect the `level` of detail in the view. 
+- `Dimensions` are `independent` variables.
 
 ## `Measures`  
-
 - `Quantitative` values like `Quantity`, `Currency`, `Profit` or `Revenue`
 - `Measure` values changes on the basis of dimension selected or any filters applied.
 - `Measures` can be `aggregated`
@@ -45,7 +40,6 @@
 - `Discrete` fields add `headers` to the view.
 
 ## `Data types`
-
 ![Data Type](Image/DataType.png)
 
 ### `Features`
@@ -77,8 +71,7 @@
 - `.twbx`: Tableau Packaged Workbook (Stores all the tableau sheets, dashboards, stories, copy of data used, images if used)
 - If the data is used from server then create an `extract` before saving the data in `.twbx`
 
-### File Types
-
+## File Types
 ![1](Image/TableauFileTypes1.png)
 ![2](Image/TableauFileType2.png)
 ![3](Image/TableauFileType3.png)
