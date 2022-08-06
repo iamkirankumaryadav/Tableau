@@ -9,6 +9,11 @@
 ### `Start Page`
 ![Start Page](Image/StartPage.png)
 
+### `Data Source Page`
+![Data Source Page](Image/DataSource.png)
+
+### `Workspace`
+![Workspace](Image/TableauWorkspace.png)
 
 ### `Dimensions`  
 - `Qualitative` values like `Names`, `Dates`, `Category` or `Geographical` Data.
